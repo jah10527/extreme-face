@@ -10,9 +10,15 @@ Non-trainable params: 4,544
 
 FDDB ROC Dist.
 
-![discROC](images\discROC-ef.png)
+![discROC](images/discROC-ef.png)
 
 *92.05% @100 false*
+
+---
+
+All models trained with Tensorflow 2.1.0
+
+
 
 ---
 
@@ -20,5 +26,5 @@ release soon...
 
 
 
-
+Oct. 3, 2020
 
